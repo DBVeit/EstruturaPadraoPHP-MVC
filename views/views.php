@@ -1,0 +1,1 @@
+Armazena as views do sistema. Pode-se criar subpastas
