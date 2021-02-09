@@ -1,0 +1,1 @@
+Armazena funções de carregamento de componentes

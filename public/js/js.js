@@ -1,0 +1,1 @@
+Armazena funções js

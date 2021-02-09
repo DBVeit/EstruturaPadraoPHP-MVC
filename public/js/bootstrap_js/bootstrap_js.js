@@ -1,0 +1,1 @@
+Armazena arquivos JS do bootstrap, se utilizado, e baixado os arquivos
